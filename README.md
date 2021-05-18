@@ -1,0 +1,2 @@
+# collaborativeFilteringNeuralNetworks
+Implementation of various NN architectures for collaborative Filtering
